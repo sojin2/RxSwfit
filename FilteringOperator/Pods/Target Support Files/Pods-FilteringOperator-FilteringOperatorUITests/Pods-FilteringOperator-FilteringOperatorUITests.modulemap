@@ -1,0 +1,6 @@
+framework module Pods_FilteringOperator_FilteringOperatorUITests {
+  umbrella header "Pods-FilteringOperator-FilteringOperatorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

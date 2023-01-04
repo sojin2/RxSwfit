@@ -1,0 +1,6 @@
+framework module Pods_TraitsTests {
+  umbrella header "Pods-TraitsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
